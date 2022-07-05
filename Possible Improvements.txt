@@ -1,0 +1,9 @@
+*Improvements*
+
+There is a lot of space for improvement in this project.
+Here are some of them:
+
+1. Output shown in the "get" method can be improved.
+2. "/inputs" route can be displayed with more sophisticated tables.
+3. Database structure can also be improved with better design.
+4. "Requirement.txt" is currently a large file which can be reduced to only important libraries.
